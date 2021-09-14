@@ -4,7 +4,7 @@ Steban Pulido - ID#: 200455316
 
 Q2 Client-Side Coding Languages
 
--Given that people require programs that help them for different types of tasks, either from the most normal things like checking email, watching videos on the web, or finding information, that is why the Client-Side model exists.
+-Given that people require programs that help them for different types of tasks, either from the most normal things like checking your email, watching videos on the web, to accesing to the data stored in a cloud, that is why the Client-Side model exists.
 
 -This has the main characteristic of easing the handling of information for anyone, since it depends more on the program that the user manipulates than on its possible dependence on one or more servers.
 
